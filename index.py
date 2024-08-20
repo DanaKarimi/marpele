@@ -62,7 +62,7 @@ def Mar_va_Pele(i, j) -> int:
 
 while ask_to_play.lower() == "y":
 
-    tas = random.randint(1,6)
+    tas = random.randint(1, 6)
     print("Your Tas: ", tas)
 
     for i in range(7):
